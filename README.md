@@ -3,7 +3,7 @@ Two roles of span prediction models (boxes in blue):
 * as a base NER system 
 * as a system combiner.
 
-![show fig](https://github.com/anonymous4nlp/SpanNER/raw/master/img/spanner.png)
+![show fig](https://github.com/anonymous4nlp/SpanNER/raw/main/img/spanner.png)
 <!-- ![show fig](https://github.com/anonymous4nlp/anonymous4nlp.github.io/raw/master/img/5heatmap.png) -->
 ## Requirements
 -  `python3`
